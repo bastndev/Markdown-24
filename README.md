@@ -1,7 +1,8 @@
 <!-- logo IMG -->
 <p align="center">
-    <img width="180" src="IMG/logo.png">
+  <img width="180" src="IMG/logo.png">
 </p>
+
 
 <!-- code IMG -->
 <details >
@@ -9,7 +10,7 @@
 
 ```
 <p align="center">
-    <img width="180" src="https://github.com/bastndev/Markdown-24/blob/main/IMG/logo.png">
+  <img width="180" src="IMG/logo.png">
 </p>
 ```
 </details>
