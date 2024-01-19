@@ -1,6 +1,6 @@
 <!-- logo IMG -->
 <p align="center">
-    <img width="180" src="https://raw.githubusercontent.com/bastndev/Markdown-24/main/IMG/logo.png?token=GHSAT0AAAAAACMP34DO4XD2DHWIE7FXN7ZSZNK4S4Q">
+    <img width="180" src="IMG/logo.png">
 </p>
 
 <!-- code IMG -->
