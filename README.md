@@ -35,7 +35,7 @@
     <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
   </a> 
 
- [Link](https://shields.io/)
+ [Page Link](https://shields.io/)
 </div>
 
 <!-- TITLE -->
