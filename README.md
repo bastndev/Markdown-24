@@ -5,9 +5,9 @@
 
 <!-- code IMG -->
 <details >
-<summary align="center">👾 Click-Code</summary>
+<summary align="center">👾 Click-Code 👾</summary>
 
-```console
+```
 <p align="center">
     <img width="180" src="./IMG/logo.png">
 </p>
