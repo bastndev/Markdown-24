@@ -3,7 +3,7 @@
     <img width="180" src="./IMG/logo.png">
 </p>
 
-<details>
+<details align="center">
 <summary>👾 Click-Code...</summary>
 
 ```console
