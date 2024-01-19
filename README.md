@@ -35,13 +35,10 @@
     <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
   </a> 
 
- [Page Link](https://shields.io/)
+ [▶ Page Link ](https://shields.io/)
 </div>
 
 <!-- TITLE -->
 # Markdown 24
 
 M-(↓) | Markdown 2024 🔽 | easy only copy and page
-
-
-
