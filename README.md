@@ -3,12 +3,13 @@
     <img width="180" src="./IMG/logo.png">
 </p>
 
-<details align="center">
-<summary>👾 Click-Code...</summary>
+<!-- code IMG -->
+<details >
+<summary align="center">👾 Click-Code</summary>
 
 ```console
 <p align="center">
-    <img width="180" src="./IMG/logo2.png">
+    <img width="180" src="./IMG/logo.png">
 </p>
 ```
 </details>
