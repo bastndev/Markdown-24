@@ -4,7 +4,7 @@
 </p>
 
 
-```console
+```$ 
 <p align="center">
     <img width="180" src="./IMG/logo2.png">
 </p>
