@@ -4,7 +4,7 @@
 </p>
 
 <details>
-<summary>🛠️ Code Code...</summary>
+<summary>👾 (Click)[http] Code...</summary>
 
 ```$ 
 <p align="center">
