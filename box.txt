@@ -1,0 +1,223 @@
+|➥
+
+|➜ 
+
+- > 22
+* hello
+  * dd
+    * ssj
+
+
+```console
+$ grip . 0.0.0.0:80
+ * Running on http://0.0.0.0:80/
+```
+
+```console
+$ cat README.md | grip --export - | less
+```
+
+
+Hola **bebe** que hibo pw
+
+<table>
+  
+<tr>
+    <td align="center"><a href="https://github.com/floodpants"><img src="https://avatars.githubusercontent.com/u/37890036?" width="100px;" alt=""/><br /><sub><b>floodpants</b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/andredias"><img src="https://avatars.githubusercontent.com/u/902540" width="100px;" alt=""/><br /><sub><b>André Felipe Dias</b></sub></a><br /><a href="https://github.com/sabuhish/fastapi-mail/" title="Documentation">📖</a> <a href="https://github.com/sabuhish/fastapi-mail/" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td></b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/wjurkowlaniec"><img src="https://avatars.githubusercontent.com/u/1134323" width="100px;" alt=""/><br /><sub><b>Wojtek Jurkowlaniec</b></sub></a><br /><a href="https://github.com/sabuhish/fastapi-mail/" title="Documentation">📖</a> <a href="https://github.com/sabuhish/fastapi-mail/" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td></b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+
+</tr>
+</table>
+
+First Header | Second Header
+-------------|--------------
+Content Cell | Content Cell
+Content Cell | Content Cell
+
+```console
+$ grip . 0.0.0.0:80
+ * Running on http://0.0.0.0:80/
+```
+
+
+## Screenshots
+Looking for an overview of the interface? Check it out!
+
+|![Dashboard](https://dl.gitea.io/screenshots/home_timeline.png)|![User Profile](https://dl.gitea.io/screenshots/user_profile.png)|![Global Issues](https://dl.gitea.io/screenshots/global_issues.png)|
+|:---:|:---:|:---:|
+|![Branches](https://dl.gitea.io/screenshots/branches.png)|![Web Editor](https://dl.gitea.io/screenshots/web_editor.png)|![Activity](https://dl.gitea.io/screenshots/activity.png)|
+|![New Migration](https://dl.gitea.io/screenshots/migration.png)|![Migrating](https://dl.gitea.io/screenshots/migration.gif)|![Pull Request View](https://image.ibb.co/e02dSb/6.png)
+![Pull Request Dark](https://dl.gitea.io/screenshots/pull_requests_dark.png)|![Diff Review Dark](https://dl.gitea.io/screenshots/review_dark.png)|![Diff Dark](https://dl.gitea.io/screenshots/diff_dark.png)|
+
+
+<details>
+<summary>🛠️ My tools</summary>
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+</p>
+</details>
+
+| First Header | Second Header | First Header | Second Header |
+|--------------|---------------|--------------|---------------|
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
+
+//-TODO: beautiful 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666177901110/0HbUtPgxq.png" alt="My First Hacktoberfest" width="250px" align="left" /></a>
+<a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title="My First Hacktoberfest"><strong>My First Hacktoberfest</strong></a>
+<div><strong>20 Oct 2022</strong></div>
+<br/> Hello beautiful people! It's been a long time since I wrote a blog. I hope you all doing great. So, I am writing this blog to share my experience to you on my first Hacktoberfest ✨ I hope you enjoy it! 😊
+🌐 What is Hacktoberfest is all about?
+
+The m... </p> <br/> <br/>
+<p align="left">
+<a href="https://abbeywillblog.hashnode.dev//introduction-of-tcp-ip-model" title="Introduction of TCP/IP Model"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657615437394/UhnUR0CWL.png" alt="Introduction of TCP/IP Model" width="250px" align="left" /></a>
+<a href="https://abbeywillblog.hashnode.dev//introduction-of-tcp-ip-model" title="Introduction of TCP/IP Model"><strong>Introduction of TCP/IP Model</strong></a>
+<div><strong>20 July 2022</strong></div>
+<br/> Networking models are needed, especially if you want to learn DevOps. However, the fundamentals of networking are always skipped for the reason that they are going straight towards DevOps tools like Docker and Jenkins. We don't need to dive fully int... </p> <br/> <br/>
+<p align="left">
+<a href="https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities" title="Pushing yourself to join communities"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657000180379/7d74e3jTI.png" alt="Pushing yourself to join communities" width="250px" align="left" /></a>
+<a href="https://abbeywillblog.hashnode.dev//pushing-yourself-to-join-communities" title="Pushing yourself to join communities"><strong>Pushing yourself to join communities</strong></a>
+<div><strong>6 July 2022</strong> | <strong>Updated: 8 July 2022</strong></div>
+<br/> Getting Out of the Comfort Zone
+
+Getting out of our comfort zones will most likely be the most difficult challenge we will face. It's easy to say, but in reality it's like getting blood from a stone. You are wondering why on earth do we need to get o... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
+//-TODO: ---------------- - -- 
+
+
+### 📺 Latest Videos: 
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Gemography is Connecting Brilliant Engineering Minds, Regardless of Geography.](https://ytcards.demolab.com/?id=jRBUX_9FDeQ&title=Gemography+is+Connecting+Brilliant+Engineering+Minds%2C+Regardless+of+Geography.&lang=en&timestamp=1682564191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Gemography is Connecting Brilliant Engineering Minds, Regardless of Geography.")](https://www.youtube.com/watch?v=jRBUX_9FDeQ)
+[![Productivity, Resilience & Agility w/ Testcontainers and Testcontainers Cloud from @atomicjar](https://ytcards.demolab.com/?id=EwrOTRWW90g&title=Productivity%2C+Resilience+%26+Agility+w%2F+Testcontainers+and+Testcontainers+Cloud+from+%40atomicjar&lang=en&timestamp=1681534295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Productivity, Resilience & Agility w/ Testcontainers and Testcontainers Cloud from @atomicjar")](https://www.youtube.com/watch?v=EwrOTRWW90g)
+[![I Spoke at the Dublin DevRel Meetup (Cohort of 29th March'23) ft. @Voxgig](https://ytcards.demolab.com/?id=knfsk2H3k8U&title=I+Spoke+at+the+Dublin+DevRel+Meetup+%28Cohort+of+29th+March%2723%29+ft.+%40Voxgig&lang=en&timestamp=1680333714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "I Spoke at the Dublin DevRel Meetup (Cohort of 29th March'23) ft. @Voxgig")](https://www.youtube.com/watch?v=knfsk2H3k8U)
+[![Journey of Building an Open-Source Automation Server using Jenkins w/ Oleg Nenashev](https://ytcards.demolab.com/?id=caZCOO_dErw&title=Journey+of+Building+an+Open-Source+Automation+Server+using+Jenkins+w%2F+Oleg+Nenashev&lang=en&timestamp=1678991252&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Journey of Building an Open-Source Automation Server using Jenkins w/ Oleg Nenashev")](https://www.youtube.com/watch?v=caZCOO_dErw)
+[![Linktree for Web3? Listen to the Story of openlinks.io from Logan Lentz](https://ytcards.demolab.com/?id=4lKmHPZNw1Y&title=Linktree+for+Web3%3F+Listen+to+the+Story+of+openlinks.io+from+Logan+Lentz&lang=en&timestamp=1678902631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Linktree for Web3? Listen to the Story of openlinks.io from Logan Lentz")](https://www.youtube.com/watch?v=4lKmHPZNw1Y)
+[![F5 Networks: Empowering the Future of Application Delivery](https://ytcards.demolab.com/?id=OPCleIa94Sg&title=F5+Networks%3A+Empowering+the+Future+of+Application+Delivery&lang=en&timestamp=1678811350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "F5 Networks: Empowering the Future of Application Delivery")](https://www.youtube.com/watch?v=OPCleIa94Sg)
+<!-- END YOUTUBE-CARDS -->
+
+//TODO: 
+```
+[✓] Flutter (Channel stable, 2.5.3, on macOS 11.4 20F71 darwin-arm, locale zh-Hans-CN)
+[✓] Android toolchain - develop for Android devices (Android SDK version 31.0.0)
+[✓] Xcode - develop for iOS and macOS
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2020.3)
+[✓] VS Code (version 1.62.3)
+[✓] Connected device (3 available)
+```
+
+
+//-TODO:
+#### 🎧 I love music! | Spotify Playing
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+
+</br>
+
+### 🗣 Veronica as speaker
+[<img align="left" height="94px" width="94px" alt="Coders" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.instagram.com/p/CcBYOECjp6s/) 
+**Colloquium of Women for Change 👩‍💻CODERS** \
+Talk to inspire future generations about great opportunities
+that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
+
+---
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
+**Technology has no gender** \
+Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
+
+---
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>](https://www.youtube.com/watch?v=MEkkblYUEOM) 
+**The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
+A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://www.youtube.com/watch?v=MEkkblYUEOM) 
+
+--- 
+</br>
+
+
+//-TODO:
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+
+
+//-TODO: 
+## :open_file_folder: What's inside?
+
+A quick look at the folder structure of this project.
+
+    .
+    ├── content
+    │   ├───blog
+    │   ├───case-studies
+    │   └───json
+    ├── cypress
+    ├── plugins
+    └── src
+        ├───components
+        │   ├───About
+        │   ├───Blog
+        │   ├───common
+        │   ├───Concepts
+        │   ├───Contact
+        │   ├───CreativeCoding
+        │   ├───Home
+        │   ├───Layout
+        │   │   └───Navbar
+        │   ├───Lightbox
+        │   ├───Projects
+        │   └───Skills
+        ├───hooks
+        ├───pages
+        ├───static
+        │   └───images
+        ├───styles
+        └───templates
+
+//-TODO: 
+
+
+### App Screenshots
+
+| <img src="github//GitHub-logo.gif"> | <img src=""> | <img src=""> |
+|:------------------------------------:|:--------------------------------------:|:-----------------------------------------:|
+|       _View Agricultural News_       |      _Receive IoT Telemetry Data_      |          _Detect Plant Disease_           |
+
+---
+
+//TODO:  
+<h3 align="center"><a href="https://spicetify.app/"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
+<p align="center">
+  <a href="https://goreportcard.com/report/github.com/spicetify/spicetify-cli"><img src="https://goreportcard.com/badge/github.com/spicetify/spicetify-cli"></a>
+  <a href="https://github.com/spicetify/spicetify-cli/releases/latest"><img src="https://img.shields.io/github/release/spicetify/spicetify-cli/all.svg?colorB=97CA00?label=version"></a>
+  <a href="https://github.com/spicetify/spicetify-cli/releases"><img src="https://img.shields.io/github/downloads/spicetify/spicetify-cli/total.svg?colorB=97CA00"></a>
+  <a href="https://discord.gg/VnevqPp2Rr"><img src="https://img.shields.io/discord/842219447716151306?label=chat&logo=discord&logoColor=discord"></a>
+  <a href="https://www.reddit.com/r/spicetify"><img src="https://img.shields.io/reddit/subreddit-subscribers/spicetify?logo=reddit"></a>
+</p>
+
+---
+
+Command-line tool to customize the official Spotify client.
+Supports Windows, MacOS and Linux.
+
+<img src="github/GitHub-logo.gif" alt="img" align="right" width="560px" height="400px">
+
+### Features
+
+- Change colors whole UI
+- Inject CSS for advanced customization
+- Inject Extensions (Javascript script) to extend functionalities, manipulate UI and control player.
+- Inject Custom apps
+- Remove bloated components to improve performance
+
+### Links
+
+- [Installation](https://spicetify.app/docs/getting-started)
+- [Basic Usage](https://spicetify.app/docs/getting-started#basic-usage)
+- [FAQ](https://spicetify.app/docs/faq)
