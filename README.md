@@ -121,3 +121,12 @@
 - [X] A completed task
 - [X] ~~An uncompleted task~~
 ```
+
+- [ ] An uncompleted task
+    - [ ] A subtask
+        - [X] ~~A subtask~~
+```
+- [ ] An uncompleted task
+    - [ ] A subtask
+        - [X] ~~A subtask~~
+```
