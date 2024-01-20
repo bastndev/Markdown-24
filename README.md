@@ -265,7 +265,7 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 </p>
 
 <p align="left">
-<a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="left"/></a>
+<a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="right"/></a>
 <a href="https://dev.to/bastndev" title=""><strong>Markdown 24</strong></a>
 
 > **20 jan 2024**
