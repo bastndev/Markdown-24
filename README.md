@@ -57,7 +57,6 @@
 ```
 
 <!-- --- -->
-
 <img src="IMG/gif/line.gif" alt="">
 
 **Caption**
@@ -72,3 +71,18 @@
 ``` code:
 ~~Strikethrough text~~
 ```
+``marked text``
+```
+``marked text``
+```
+> block quote
+```
+> block quote
+```
+>- Text with dot
+```
+>- Text with dot
+```
+
+<!-- --- -->
+<img src="IMG/gif/line.gif" alt="">
