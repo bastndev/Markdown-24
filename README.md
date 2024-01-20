@@ -43,8 +43,8 @@
 ``` code:
 # Markdown 24 
 ```
-## 2 Markdown 24 
-### 3 Markdown 24 
+## (2) Markdown 24 
+### (3) Markdown 24 
 
 ``` code:
 (2)  ## Markdown 24  | (3)  ### Markdown 24 
