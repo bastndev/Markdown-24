@@ -291,4 +291,26 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers.
 </p>
 ```
+
 <!-- HASHNODE_BLOG:END -->
+---
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.youtube.com/@bastndev) 
+**Technology has no gender** \
+Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://dev.to/bastndev) 
+
+---
+[<img align="right" height="94px" width="94px" alt="Santander & Mongo DB" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>](https://www.youtube.com/@bastndev) 
+**The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
+A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://dev.to/bastndev) 
+
+--- 
+```
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.youtube.com/@bastndev) 
+**Technology has no gender** \
+Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://dev.to/bastndev) 
+
+---
+[<img align="right" height="94px" width="94px" alt="Santander & Mongo DB" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>](https://www.youtube.com/@bastndev) 
+**The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
+A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://dev.to/bastndev) 
+```
