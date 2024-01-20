@@ -143,5 +143,6 @@
 </details>
 ```
 
-[text goes here](#section_name)
-  section_title<a name="section_name"></a>    
+<kbd align="center" >⇧⌘F</kbd> 
+
+![picture alt](https://via.placeholder.com/250x250 "Title is optional")  
