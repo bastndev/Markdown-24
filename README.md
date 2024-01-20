@@ -59,27 +59,27 @@
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
 
-**Caption**
+**Caption** ▼
 ``` code:
 **Caption**
 ```
-***slanted text***
+***slanted text*** ▼
 ``` code:
 ***slanted text***
 ```
-~~Strikethrough text~~
+~~Strikethrough text~~ ▼
 ``` code:
 ~~Strikethrough text~~
 ```
-``marked text``
+`marked text` ▼
 ```
-``marked text``
+`marked text`
+```
+> block quote ▼
 ```
 > block quote
 ```
-> block quote
-```
->- Text with dot
+>- Text with dot ▼
 ```
 >- Text with dot
 ```
