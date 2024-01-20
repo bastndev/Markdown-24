@@ -130,3 +130,15 @@
     - [ ] A subtask
         - [X] ~~A subtask~~
 ```
+
+<details>
+  <summary>Title 1</summary>
+    <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+
+```
+<details>
+  <summary>Title 1</summary>
+    <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+```
