@@ -384,7 +384,7 @@ A session led by inspiring women that have built a successful career in the IT s
 ```
 </details>
 
-                              @bastndev' 2023 GitHub Skyline
+                              @bastndev' 2024 give me a star thank you
                      ✦                      ✧  ✦   ▁✦               ✧     
                      ☽ ✧      ✧✧                   ██    ▃
                               ✦      ▁             ██        █ 
