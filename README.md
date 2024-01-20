@@ -143,6 +143,10 @@
 </details>
 ```
 
-<kbd align="center" >⇧⌘F</kbd> 
+<!-- --- -->
+<img src="IMG/gif/line.gif" alt="">
 
 ![picture alt](https://via.placeholder.com/250x250 "Title is optional")  
+```
+![picture alt](https://via.placeholder.com/250x250 "Title is optional")  
+```
