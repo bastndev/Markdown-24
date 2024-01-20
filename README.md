@@ -204,6 +204,8 @@
 |    ![Dashboard](IMG/gif/giphy.gif)    | ![Global Issues](IMG/gif/GitHub-logo.gif) |   ![User Profile](IMG/gif/loading.gif)   |
 
 ```
+<!-- --- -->
+<img src="IMG/gif/line.gif" alt="">
 
 <!-- TODO: NO HACER COMMIT!!! -->
 
@@ -314,7 +316,8 @@ Visibility of women in the world of Technology, know the factors that weaken wom
 **The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
 A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://dev.to/bastndev) 
 ```
-
+<!-- --- -->
+<img src="IMG/gif/line.gif" alt="">
 
 ## :open_file_folder: What's inside?
 
@@ -384,7 +387,7 @@ A session led by inspiring women that have built a successful career in the IT s
 ```
 </details>
 
-                              @bastndev' 2024 give me a star thank you
+                              @bastndev 2024 |thank you for coming here
                      ✦                      ✧  ✦   ▁✦               ✧     
                      ☽ ✧      ✧✧                   ██    ▃
                               ✦      ▁             ██        █ 
