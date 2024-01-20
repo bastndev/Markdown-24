@@ -59,15 +59,15 @@
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
 
-**Caption** ▼
+**Caption** ⤵
 ``` code:
 **Caption**
 ```
-***slanted text*** ▼
+***slanted text*** ⤵
 ``` code:
 ***slanted text***
 ```
-~~Strikethrough text~~ ▼
+~~Strikethrough text~~ ⤵
 ``` code:
 ~~Strikethrough text~~
 ```
