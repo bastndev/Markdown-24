@@ -255,13 +255,16 @@
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="left"/></a>
-<a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title=""><strong>Markdown 24</strong></a>
-<div><strong>20 jan 2024</strong></div>
-<br/>Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers. Here are some of the key features.” Let me know if you need help with anything else. 😊</p> <br/> <br/>
+<a href="https://dev.to/bastndev" title=""><strong>Markdown 24</strong></a>
+
+> **20 jan 2024**
+Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers. 😊 
+</p>
+
 
 <p align="left">
 <a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="right"/></a>
-<a href="https://abbeywillblog.hashnode.dev//my-first-hacktoberfest" title=""><strong>Markdown 24</strong></a>
+<a href="https://dev.to/bastndev" title=""><strong>Markdown 24</strong></a>
 <div><strong>20 jan 2024</strong></div>
 <br/>Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers. Here are some of the key features.” Let me know if you need help with anything else. 😊</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
