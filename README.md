@@ -103,3 +103,19 @@
 ```
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
+
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+```
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+```
+
+- [ ] An uncompleted task
+- [x] A completed task
+```
+- [ ] An uncompleted task
+- [x] A completed task
+```
