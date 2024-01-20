@@ -195,9 +195,9 @@
 </table> 
 ```
 
-| ![Dashboard](IMG/gif/3d-git.gif) |   ![Global Issues](IMG/gif/3d-git.gif)    | ![User Profile](IMG/gif/3d-git.gif)  |
+| ![Dashboard](IMG/gif/loading.gif) |   ![Global Issues](IMG/gif/loading.gif)    | ![User Profile](IMG/gif/loading.gif)  |
 |:--------------------------------:|:-----------------------------------------:|:------------------------------------:|
-| ![Dashboard](IMG/gif/giphy.gif)  | ![Global Issues](IMG/gif/GitHub-logo.gif) | ![User Profile](IMG/gif/loading.gif) |
+| ![Dashboard](IMG/gif/GitHub-logo.gif)  | ![Global Issues](IMG/gif/GitHub-logo.gif) | ![User Profile](IMG/gif/GitHub-logo.gif) |
 ```
 | ![Dashboard](IMG/gif/3d%20github.gif) | ![Global Issues](IMG/gif/3d%20github.gif) | ![User Profile](IMG/gif/3d%20github.gif) |
 |:-------------------------------------:|:-----------------------------------------:|:----------------------------------------:|
