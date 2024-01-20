@@ -347,9 +347,42 @@ A session led by inspiring women that have built a successful career in the IT s
         │   └───images
         ├───styles
         └───tem
-        .
 </br>
+<!-- Flutter -->
 
+<details>
+<summary>Fluter</summary>
+
+> Flutter Dart.
+```
+      .
+      ├───assets
+      │   ├───fonts
+      │   ├───html
+      │   ├───i18n
+      │   └───images
+      ├───lib
+      │   ├───config
+      │   │   └───routes
+      │   ├───components
+      │   │   ├───About
+      │   │   ├───Blog
+      │   │   ├───common
+      │   │   ├───Concepts
+      │   │   ├───Contact
+      │   │   ├───CreativeCoding
+      │   │   ├───Home
+      │   │   ├───Layout
+      │   │   │   └───Navbar
+      │   │   ├───Lightbox
+      │   │   ├───Projects
+      │   │   └───Skills
+      │   ├───hooks
+      │   └───pages
+      ├───test
+      └───pubspec.yaml
+```
+</details>
 
                               @bastndev' 2023 GitHub Skyline
                      ✦                      ✧  ✦   ▁✦               ✧     
@@ -358,7 +391,3 @@ A session led by inspiring women that have built a successful career in the IT s
                        ▇     ✧▆  █   █ ▂▂ ▃        ██▇       █▄     ▄
                     ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅✦
                      ██████▁█████████████████████▇████████▅▆█████████████▇
-
-
-
-                     <!-- BEGIN YOUTUBE-CARDS -->
