@@ -195,13 +195,13 @@
 </table> 
 ```
 
-|![Dashboard](IMG/gif/3d-git.gif)|![Global Issues](IMG/gif/3d-git.gif)|![User Profile](IMG/gif/3d-git.gif)|
-|:---:|:---:|:---:|
-|![Dashboard](IMG/gif/giphy.gif)|![Global Issues](IMG/gif/GitHub-logo.gif)|![User Profile](IMG/gif/loading.gif)|
+| ![Dashboard](IMG/gif/3d-git.gif) |   ![Global Issues](IMG/gif/3d-git.gif)    | ![User Profile](IMG/gif/3d-git.gif)  |
+|:--------------------------------:|:-----------------------------------------:|:------------------------------------:|
+| ![Dashboard](IMG/gif/giphy.gif)  | ![Global Issues](IMG/gif/GitHub-logo.gif) | ![User Profile](IMG/gif/loading.gif) |
 ```
-|![Dashboard](IMG/gif/3d%20github.gif)|![Global Issues](IMG/gif/3d%20github.gif)|![User Profile](IMG/gif/3d%20github.gif)|
-|:---:|:---:|:---:|
-|![Dashboard](IMG/gif/giphy.gif)|![Global Issues](IMG/gif/GitHub-logo.gif)|![User Profile](IMG/gif/loading.gif)|
+| ![Dashboard](IMG/gif/3d%20github.gif) | ![Global Issues](IMG/gif/3d%20github.gif) | ![User Profile](IMG/gif/3d%20github.gif) |
+|:-------------------------------------:|:-----------------------------------------:|:----------------------------------------:|
+|    ![Dashboard](IMG/gif/giphy.gif)    | ![Global Issues](IMG/gif/GitHub-logo.gif) |   ![User Profile](IMG/gif/loading.gif)   |
 
 ```
 
@@ -213,3 +213,39 @@
 [![El Arte de la programación #ai  #developer #programming  #shorts](https://ytcards.demolab.com/?id=X86ozDqT32w&title=El+Arte+de+la+programaci%C3%B3n+%23ai++%23developer+%23programming++%23shorts&lang=en&timestamp=1685585406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "El Arte de la programación #ai  #developer #programming  #shorts")](https://www.youtube.com/watch?v=X86ozDqT32w)
 
 <!-- END YOUTUBE-CARDS -->
+
+<table style="width:100%">  
+<td>
+<a href="https://www.youtube.com/watch?v=QX1myYCP76E&ab_channel=BastianDev">
+<img src="https://pbs.twimg.com/media/Fw_-rLoWIAkB4KF?format=jpg&name=large"></a>
+</td>
+
+<td>
+<a href="https://www.youtube.com/watch?v=VdsJeyRhSWw">
+<img src="https://i.ytimg.com/vi/VdsJeyRhSWw/maxresdefault.jpg"></a>
+</td>
+
+<td>
+<a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
+<img src="https://i.ytimg.com/vi/a6JQkAxYf3A/maxresdefault.jpg"></a>
+</td>
+</table>
+
+```
+<table style="width:100%">  
+<td>
+<a href="https://www.youtube.com/watch?v=QX1myYCP76E&ab_channel=BastianDev">
+<img src="https://pbs.twimg.com/media/Fw_-rLoWIAkB4KF?format=jpg&name=large"></a>
+</td>
+
+<td>
+<a href="https://www.youtube.com/watch?v=VdsJeyRhSWw">
+<img src="https://i.ytimg.com/vi/VdsJeyRhSWw/maxresdefault.jpg"></a>
+</td>
+
+<td>
+<a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
+<img src="https://i.ytimg.com/vi/a6JQkAxYf3A/maxresdefault.jpg"></a>
+</td>
+</table>
+```
