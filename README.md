@@ -314,3 +314,50 @@ Visibility of women in the world of Technology, know the factors that weaken wom
 **The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
 A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://dev.to/bastndev) 
 ```
+
+
+## :open_file_folder: What's inside?
+
+> A quick look at the folder structure of this project.
+
+    .
+    ├── content
+    │   ├───blog
+    │   ├───case-studies
+    │   └───json
+    ├── cypress
+    ├── plugins
+    └── src
+        ├───components
+        │   ├───About
+        │   ├───Blog
+        │   ├───common
+        │   ├───Concepts
+        │   ├───Contact
+        │   ├───CreativeCoding
+        │   ├───Home
+        │   ├───Layout
+        │   │   └───Navbar
+        │   ├───Lightbox
+        │   ├───Projects
+        │   └───Skills
+        ├───hooks
+        ├───pages
+        ├───static
+        │   └───images
+        ├───styles
+        └───tem
+
+
+
+                              @bastndev' 2023 GitHub Skyline
+                     ✦                      ✧  ✦   ▁✦               ✧     
+                     ☽ ✧      ✧✧                   ██    ▃
+                              ✦      ▁             ██        █ 
+                       ▇     ✧▆  █   █ ▂▂ ▃        ██▇       █▄     ▄
+                    ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅✦
+                     ██████▁█████████████████████▇████████▅▆█████████████▇
+
+
+
+                     <!-- BEGIN YOUTUBE-CARDS -->
