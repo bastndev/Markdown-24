@@ -44,29 +44,29 @@
 # Markdown 24 
 ```
 ## Markdown 24 
-<details >
-<summary>Code</summary>
-
 ``` code:
 ## Markdown 24
 ```
-</details>
-
 ### Markdown 24 
-<details >
-<summary>Code</summary>
-
 ``` code:
-## Markdown 24
+### Markdown 24
 ```
-</details>
-
 #### Markdown 24 
-<details >
-<summary>Code</summary>
-
 ``` code:
-## Markdown 24
+#### Markdown 24
 ```
-</details>
 
+---
+
+**Caption**
+``` code:
+**Caption**
+```
+***slanted text***
+``` code:
+***slanted text***
+```
+~~Strikethrough text~~
+``` code:
+~~Strikethrough text~~
+```
