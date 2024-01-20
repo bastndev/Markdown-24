@@ -114,8 +114,10 @@
 ```
 
 - [ ] An uncompleted task
-- [x] A completed task
+- [X] A completed task
+- [X] ~~An uncompleted task~~
 ```
 - [ ] An uncompleted task
-- [x] A completed task
+- [X] A completed task
+- [X] ~~An uncompleted task~~
 ```
