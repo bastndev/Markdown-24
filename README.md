@@ -53,9 +53,11 @@
 ### Markdown 24
 ```
 #### Markdown 24 
+<details >
+<summary> 🔐 Click-Code</summary>
 
 ``` code:
 #### Markdown 24
 ```
-
+</details>
 
