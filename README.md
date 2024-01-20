@@ -271,4 +271,22 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 > **20 jan 2024**
 Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers.
 </p>
+
+```console
+<p align="left">
+<a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="left"/></a>
+<a href="https://dev.to/bastndev" title=""><strong>Markdown 24</strong></a>
+
+> **20 jan 2024**
+Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers. 😊 
+</p>
+
+<p align="left">
+<a href="#" ><img src="IMG/gohit-portada.jpg" width="250px" align="right"/></a>
+<a href="https://dev.to/bastndev" title=""><strong>Markdown 24</strong></a>
+
+> **20 jan 2024**
+Hey,everyone I'm @bastndev this is es a markdown, here is the English translation of your text: “Introduction to my project. I am working on a web application that aims to simplify the lives of developers.
+</p>
+```
 <!-- HASHNODE_BLOG:END -->
