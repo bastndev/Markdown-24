@@ -56,7 +56,9 @@
 #### Markdown 24
 ```
 
----
+<!-- --- -->
+
+<img src="IMG/gif/line.gif" alt="">
 
 **Caption**
 ``` code:
