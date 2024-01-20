@@ -71,18 +71,26 @@
 ``` code:
 ~~Strikethrough text~~
 ```
-`marked text` ▼
+`marked text` ⤵
 ```
 `marked text`
 ```
-> block quote ▼
+> block quote ⤵
 ```
 > block quote
 ```
->- Text with dot ▼
+>- Text with dot ⤵
 ```
 >- Text with dot
 ```
-
+[Page Link](http://www.bastndev.com/) ⤵
+```
+[Named Link](http://www.bastndev.com/)
+```
+[Page Link](http://www.bastndev.com/ "Named link title") and http://www.example.com/ or <http://example2.com/> ⤵
+```
+[Page Link](http://www.bastndev.com/ "Named link title") and http://www.example.com/ or <http://example2.com/>
+```
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
+
