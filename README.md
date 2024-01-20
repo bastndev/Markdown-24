@@ -122,7 +122,7 @@
 - [X] ~~An uncompleted task~~
 ```
 
-- [ ] An uncompleted task
+- [ ] [[■■■■□□□□□□] 40%](https://www.tiktok.com/@bastndev)
     - [ ] A subtask
         - [X] ~~A subtask~~
 ```
@@ -174,4 +174,23 @@
 | Content Cell        |         Content Cell |     Content Cell      |
 | Content Cell        |         Content Cell |     Content Cell      |
 | Content Cell        |         Content Cell |     Content Cell      |
+```
+
+<!-- PIcture in table -->
+<table align="center">
+<tr>
+  <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Bastian </b></sub></a><br/><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+  
+  <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br/><sub><b>👽 @bastndev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+</tr>
+</table> 
+
+```
+<table align="center">
+<tr>
+  <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Bastian </b></sub></a><br/><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+  
+  <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br/><sub><b>👽 @bastndev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+</tr>
+</table> 
 ```
