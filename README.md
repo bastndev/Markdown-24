@@ -83,6 +83,16 @@
 ```
 >- Text with dot
 ```
+ * Bullet list
+      * Nested bullet
+          * Sub-nested bullet etc ⤵
+```
+ * Bullet list
+      * Nested bullet
+          * Sub-nested bullet etc
+```
+
+
 [Page Link](http://www.bastndev.com/) ⤵
 ```
 [Named Link](http://www.bastndev.com/)
@@ -93,4 +103,3 @@
 ```
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
-
