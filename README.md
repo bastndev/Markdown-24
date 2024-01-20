@@ -44,9 +44,7 @@
 ### Markdown 24 
 
 ``` code:
-# Markdown 24
-## Markdown 24 
-### Markdown 24 
+# Markdown 24   |   ## Markdown 24  |   ### Markdown 24 
 ```
 
 
