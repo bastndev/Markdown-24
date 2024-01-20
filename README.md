@@ -194,3 +194,11 @@
 </tr>
 </table> 
 ```
+
+
+## Screenshots
+Looking for an overview of the interface? Check it out!
+
+|![Dashboard](IMG/gif/3d%20github.gif)|![Global Issues](IMG/gif/3d%20github.gif)|![User Profile](IMG/gif/3d%20github.gif)|
+|:---:|:---:|:---:|
+|![Dashboard](IMG/gif/giphy.gif)|![Global Issues](IMG/gif/GitHub-logo.gif)|![User Profile](IMG/gif/loading.gif)|
