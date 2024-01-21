@@ -204,6 +204,36 @@
 |    ![Dashboard](IMG/gif/giphy.gif)    | ![Global Issues](IMG/gif/GitHub-logo.gif) |   ![User Profile](IMG/gif/loading.gif)   |
 
 ```
+
+## Tips + 👷
+
+> [!TIP]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!IMPORTANT]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!WARNING]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!CAUTION]
+> Dev.to👷 https://dev.to/bastndev
+
+```
+> [!TIP]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!IMPORTANT]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!WARNING]
+> Dev.to👷 https://dev.to/bastndev
+
+> [!CAUTION]
+> Dev.to👷 https://dev.to/bastndev
+
+```
+
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
 
