@@ -326,7 +326,7 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 
 <!-- HASHNODE_BLOG:END -->
 ---
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/alan.gif"/>](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=47s) 
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/alan.png"/>](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=47s) 
 **Artificial Intelligence** \
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://dev.to/bastndev) 
 
