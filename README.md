@@ -249,9 +249,7 @@
 <!-- END YOUTUBE-CARDS -->
 **https://ytcards.demolab.com/**
 
-[Lnk page](https://ytcards.demolab.com)
-
-
+---
 <table style="width:100%">  
 <td>
 <a href="https://www.youtube.com/watch?v=QX1myYCP76E&ab_channel=BastianDev">
