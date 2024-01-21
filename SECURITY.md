@@ -15,7 +15,7 @@ make every effort to acknowledge your contributions.
 
 Report security vulnerabilities by emailing the GitHub Readme Stats team at:
 
-**info.bastndev@gmail.com**
+**example@gmail.com**
 
 The lead maintainer will acknowledge your email within 24 hours, and will
 send a more detailed response within 48 hours indicating the next steps in 
