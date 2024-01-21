@@ -247,7 +247,7 @@
 [![The Future is Now - Revolutionizing the World, Un Cambio de Paradigma en la Tecnología y la Sociedad](https://ytcards.demolab.com/?id=wVZ_lUYga8M&title=The+Future+is+Now+-+Revolutionizing+the+World%2C+Un+Cambio+de+Paradigma+en+la+Tecnolog%C3%ADa+y+la+Sociedad&lang=en&timestamp=1686006738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Future is Now - Revolutionizing the World, Un Cambio de Paradigma en la Tecnología y la Sociedad")](https://www.youtube.com/watch?v=wVZ_lUYga8M)
 [![El Arte de la programación #ai  #developer #programming  #shorts](https://ytcards.demolab.com/?id=X86ozDqT32w&title=El+Arte+de+la+programaci%C3%B3n+%23ai++%23developer+%23programming++%23shorts&lang=en&timestamp=1685585406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "El Arte de la programación #ai  #developer #programming  #shorts")](https://www.youtube.com/watch?v=X86ozDqT32w)
 <!-- END YOUTUBE-CARDS -->
-**https://ytcards.demola.com**
+**https://ytcards.demolab.com/**
 
 [Lnk page](https://ytcards.demolab.com)
 
