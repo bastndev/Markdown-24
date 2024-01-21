@@ -67,6 +67,10 @@
 ``` code:
 ***slanted text***
 ```
+**info.bastndev@gmail.com**
+```
+**info.bastndev@gmail.com**
+```
 ~~Strikethrough text~~ ⤵
 ``` code:
 ~~Strikethrough text~~
