@@ -38,6 +38,19 @@
  [▶ Page Link ](https://shields.io/)
 </div>
 
+<details >
+<summary align="center">Page Code</summary>
+
+```
+<div align="center">
+<!-- CI -->
+  <a href="https://github.com/bastndev/ShopyScan/actions/new">
+   <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main">
+  </a>
+</div>
+```
+</details>
+
 <!-- TITLE -->
 # Markdown 24 
 ``` code:
