@@ -1,4 +1,4 @@
-# Markdown 24 | Contributor Code of Conduct
+# <p align="center"> Markdown 24 | Contributor Code of Conduct </p>
 
 ## Our Commitment
 
@@ -34,7 +34,7 @@ The Code of Conduct applies both within project spaces and in public spaces when
 
 Details are provided on how to report abusive, harassing, or unacceptable behavior.
 
-**Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at hazru.anurag@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality regarding the reporter of an incident. Additional details about specific enforcement policies may be published separately.**
+**Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at info.dev@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality regarding the reporter of an incident. Additional details about specific enforcement policies may be published separately.**
 
 ## Attribution
 
