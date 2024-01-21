@@ -326,10 +326,11 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 
 <!-- HASHNODE_BLOG:END -->
 ---
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/ai2.gif"/>](https://www.youtube.com/watch?v=wVZ_lUYga8M)
 
+[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/ai2.gif"/>](https://www.youtube.com/@bastndev) 
 **Artificial Intelligence** \
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://dev.to/bastndev) 
+
 
 ---
 [<img align="right" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/git.jpg"/>](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=47s) 
