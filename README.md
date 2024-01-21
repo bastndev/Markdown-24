@@ -341,13 +341,15 @@ AGitHub is a cloud-based service that helps developers store and manage their co
 ---
 [<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/alan.png"/>](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=47s) 
 **Artificial Intelligence** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://dev.to/bastndev) 
+Alan Turing, born on June 23, 1912, in London, England, and died on June 7, 1954, in Wilmslow, Cheshire, was a British mathematician and logician. He made significant contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology. [Click to see](https://dev.to/bastndev) 
 
 
 ---
 [<img align="right" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/git.jpg"/>](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=47s) 
-**Git Hub 2024 Profile** \
-A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://dev.to/bastndev) 
+**GitHub 2024 Readme** \
+AGitHub is a cloud-based service that helps developers store and manage their code, as well as track and control changes to their code1. It is built around “Repositories” used to organize code for single projects2. . [Click to see](https://dev.to/bastndev) 
+
+--- 
 ```
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
