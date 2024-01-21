@@ -328,6 +328,8 @@ Hey,everyone I'm @bastndev this is es a markdown, here is the English translatio
 ---
 <img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="IMG/ai3.gif"/>
 
+</br>
+
 **Artificial Intelligence**
 
 Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. Click to see...
