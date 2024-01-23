@@ -191,9 +191,15 @@
 <!-- --- -->
 <img src="IMG/gif/line.gif" alt="">
 
-![picture alt](https://via.placeholder.com/250x250 "Title is optional")  
+[picture alt](https://via.placeholder.com/250x250 "Title is optional")  
+
 ```
 ![picture alt](https://via.placeholder.com/250x250 "Title is optional")  
+```
+
+[![Download IMG](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://avatars.githubusercontent.com/u/113950039?v=4)
+```
+Download https://avatars.githubusercontent.com/u/113950039?v=4
 ```
 
 | First Header | Second Header |
