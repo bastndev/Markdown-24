@@ -18,7 +18,7 @@
 <!-- Version - Social Media - ect -->
 <div align="center">
 <!-- CI -->
-  <a href="https://github.com/bastndev/ShopyScan/actions/new">
+  <a href="https://github.com/bastndev/Markdown-24/releases/tag/v2.0.1">
    <img src="https://img.shields.io/badge/App-DOWNLOAD-green?logo=microsoftstore&logoColor=green">
   </a>
 <!-- Version -->  
