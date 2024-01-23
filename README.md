@@ -15,16 +15,11 @@
 ```
 </details>
 
-![Static Badge](https://img.shields.io/badge/DONWLOAND-%20blue?style=flat-square&color=blue&link=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113950039%3Fv%3D4)
-
-
-
-
 <!-- Version - Social Media - ect -->
 <div align="center">
 <!-- CI -->
   <a href="https://github.com/bastndev/ShopyScan/actions/new">
-   <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main">
+   <img src="https://img.shields.io/badge/App-DOWNLOAD-green?logo=microsoftstore&logoColor=green">
   </a>
 <!-- Version -->  
   </a href="#">
