@@ -15,7 +15,8 @@
 ```
 </details>
 
-[![Download IMG](https://img.shields.io/badge/-Download%20Now!-%2322A6F2)](https://github.com/tu-usuario/tu-repositorio/raw/rama/IMG/gohit-.zip)
+![Static Badge](https://img.shields.io/badge/DONWLOAND-%20blue?style=flat-square&color=blue&link=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113950039%3Fv%3D4)
+
 
 
 
