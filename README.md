@@ -42,9 +42,9 @@
 
 ```
 <div align="center">
-<!-- CI -->
-  <a href="https://github.com/bastndev/ShopyScan/actions/new">
-   <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main">
+<!-- Download -->
+<a href="https://github.com/bastndev/Markdown-24/releases/tag/v2.0.1">
+   <img src="https://img.shields.io/badge/App-DOWNLOAD-green?logo=microsoftstore&logoColor=green">
   </a>
 </div>
 ```
