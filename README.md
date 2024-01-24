@@ -34,7 +34,7 @@
     <img alt="iOS" src="https://img.shields.io/badge/App-iOS-orange">
   </a> 
 
- [▶ Page Link ](https://shields.io/)
+ [▶ Page Link ](https://shields.io/badges)
 </div>
 
 <details >
